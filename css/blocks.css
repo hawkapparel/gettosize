@@ -1,0 +1,880 @@
+.block-1{
+    left: 445px;
+    top: 690px;
+    border-radius: 4px;
+    line-height: 16px;
+    padding: 11.2px 18.2px;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.block-1 .block-text{
+    top: -0.4px;
+    left: -0.4px;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+}
+.block-2{
+    left: 533px;
+    top: 352px;
+    border-radius: 0;
+    width: 14px;
+    height: 502px;
+    border: none;
+    display: inline-block;
+    background-color: blue;
+    text-align: center;
+    z-index: 2;
+}
+.block-2 .block-text{
+    color: #fff;
+    font-size: 9px;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    display: inline-block;
+    transform-origin: top left;
+    /* Note: for a CLOCKWISE rotation, use the commented-out
+       transform instead of this one. */
+    transform: rotate(-90deg) translate(-100%);
+    /* transform: rotate(90deg) translate(0, -100%); */
+    margin: 16px 0 0 2px;
+
+    /* Not vital, but possibly a good idea if the element you're rotating contains
+       text and you want a single long vertical line of text and the pre-rotation
+       width of your element is small enough that the text wraps: */
+    white-space: nowrap;
+    position: relative;
+    margin-top: 62px;
+}
+.block-2 .block-text.text1{
+    margin-top: 105px;
+}
+.block-2 .block-text.text2{
+    margin-top: 102px;
+}
+.block-2 .block-text.text3{
+    margin-top: 150px;
+}
+.block-3{left: 313px;top: 654px;border-radius: 0;border: none;display: inline-block;text-align: center;padding: 0;margin: 0;line-height: 1;}
+.block-3 .block-text{font-size: 13px;letter-spacing: 0.1px;background-color: blue;padding: 0;margin: 0;opacity: 0.3;line-height: 1.6;}
+.block-4{left: 313px;top: 672px;border-radius: 0;width: 234px;height: 14px;border: none;display: inline-block;background-color: yellow;text-align: center;z-index: 5;}
+.block-4 .block-text{font-size: 10px;position: relative;top: -5px;}
+.block-5{left: 303px;top: 352px;border-radius: 0;width: 10px;height: 502px;border: none;display: inline-block;background-color: #00b93b;text-align: center;}
+.block-5 .block-text{
+    color: #fff;
+    font-size: 9px;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    display: inline-block;
+    transform-origin: top left;
+    /* Note: for a CLOCKWISE rotation, use the commented-out
+       transform instead of this one. */
+    transform: rotate(-90deg) translate(-100%);
+    /* transform: rotate(90deg) translate(0, -100%); */
+    
+
+    /* Not vital, but possibly a good idea if the element you're rotating contains
+       text and you want a single long vertical line of text and the pre-rotation
+       width of your element is small enough that the text wraps: */
+    white-space: nowrap;
+    position: relative;
+    margin-top: 65px;
+}
+.block-5 .block-text.text1{
+    margin-top: 80px;
+}
+.block-5 .block-text.text2{
+    margin-top: 120px;
+}
+.block-5 .block-text.text3{
+    margin-top: 150px;
+}
+.block-6{
+    left: 548px;
+    top: 352px;
+    border-radius: 0;
+    width: 11px;
+    height: 502px;
+    border: none;
+    display: inline-block;
+    background-color: #00b93b;
+    text-align: center;
+}
+.block-6 .block-text{
+    color: #fff;
+    font-size: 9px;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    display: inline-block;
+    transform-origin: top left;
+    /* Note: for a CLOCKWISE rotation, use the commented-out
+       transform instead of this one. */
+    transform: rotate(-90deg) translate(-100%);
+    /* transform: rotate(90deg) translate(0, -100%); */
+
+
+    /* Not vital, but possibly a good idea if the element you're rotating contains
+       text and you want a single long vertical line of text and the pre-rotation
+       width of your element is small enough that the text wraps: */
+    white-space: nowrap;
+    position: relative;
+    margin-top: 62px;
+}
+.block-6 .block-text.text1{
+    margin-top: 80px;
+}
+.block-6 .block-text.text2{
+    margin-top: 120px;
+}
+.block-6 .block-text.text3{
+    margin-top: 150px;
+}
+.block-7{
+    left: 794px;
+    top: 352px;
+    border-radius: 0;
+    width: 10px;
+    height: 502px;
+    border: none;
+    display: inline-block;
+    background-color: #00b93b;
+    text-align: center;
+}
+.block-7 .block-text{
+    color: #fff;
+    font-size: 9px;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    display: inline-block;
+    transform-origin: top left;
+    /* Note: for a CLOCKWISE rotation, use the commented-out
+       transform instead of this one. */
+    transform: rotate(-90deg) translate(-100%);
+    /* transform: rotate(90deg) translate(0, -100%); */
+
+
+    /* Not vital, but possibly a good idea if the element you're rotating contains
+       text and you want a single long vertical line of text and the pre-rotation
+       width of your element is small enough that the text wraps: */
+    white-space: nowrap;
+    position: relative;
+    margin-top: 64px;
+}
+.block-7 .block-text.text1{
+    margin-top: 80px;
+}
+.block-7 .block-text.text2{
+    margin-top: 120px;
+}
+.block-7 .block-text.text3{
+    margin-top: 150px;
+}
+.block-8{
+    left: 559px;
+    top: 654px;
+    border-radius: 0;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.block-8 .block-text{
+    font-size: 13px;
+    letter-spacing: 0.1px;
+    background-color: blue;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+    opacity: 0.3;
+}
+.block-9{
+    left: 804px;
+    top: 654px;
+    border-radius: 0;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.block-9 .block-text{
+    font-size: 13px;
+    letter-spacing: 0.1px;
+    background-color: blue;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+    opacity: 0.3;
+}
+.block-10{
+    left: 313px;
+    top: 609px;
+    border-radius: 0;
+    border: none;
+    display: inline-block;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    width: 214px;
+    background-color: blue;
+    opacity: 0.3;
+}
+.block-10 .block-text{
+    font-size: 15px;
+    letter-spacing: 0.1px;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+    position: relative;
+    top: 0.4px;
+    left: -0.6px;
+    width: 100%;
+    display: inline-block;
+}
+.block-11{
+    left: 313px;
+    top: 352px;
+    border-radius: 0;
+    width: 11px;
+    height: 257px;
+    border: none;
+    display: inline-block;
+    background-color: #70b787;
+    text-align: center;
+}
+.block-11 .block-text{
+    color: #fff;
+    font-size: 9px;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    display: inline-block;
+    transform-origin: top left;
+    /* Note: for a CLOCKWISE rotation, use the commented-out
+       transform instead of this one. */
+    transform: rotate(-90deg) translate(-100%);
+    /* transform: rotate(90deg) translate(0, -100%); */
+
+
+    /* Not vital, but possibly a good idea if the element you're rotating contains
+       text and you want a single long vertical line of text and the pre-rotation
+       width of your element is small enough that the text wraps: */
+    white-space: nowrap;
+    position: relative;
+    margin-top: 39px;
+}
+.block-11 .block-text.text1{
+    margin-top: 80px;
+}
+.block-11 .block-text.text2{
+    margin-top: 86px;
+}
+.block-11 .block-text.text3{
+    margin-top: 150px;
+}
+.block-12{
+    left: 804px;
+    top: 352px;
+    border-radius: 0;
+    width: 11px;
+    height: 260px;
+    border: none;
+    display: inline-block;
+    background-color: blue;
+    text-align: center;
+    z-index: 2;
+}
+.block-12 .block-text{
+    color: #fff;
+    font-size: 9px;
+    vertical-align: middle;
+    line-height: 1;
+    width: 100%;
+    display: inline-block;
+    transform-origin: top left;
+    /* Note: for a CLOCKWISE rotation, use the commented-out
+       transform instead of this one. */
+    transform: rotate(-90deg) translate(-100%);
+    /* transform: rotate(90deg) translate(0, -100%); */
+    margin: 16px 0 0 2px;
+
+    /* Not vital, but possibly a good idea if the element you're rotating contains
+       text and you want a single long vertical line of text and the pre-rotation
+       width of your element is small enough that the text wraps: */
+    white-space: nowrap;
+    position: relative;
+    margin-top: 62px;
+}
+.block-12 .block-text.text1{
+    margin-top: 62px;
+}
+.block-12 .block-text.text2{
+    margin-top: 102px;
+}
+.block-12 .block-text.text3{
+    margin-top: 150px;
+}
+.block-13{left: 313px;top: 654px;border-radius: 0;width: 220px;height: 3px;border: none;display: inline-block;background-color: yellow;text-align: center;z-index: 5;}
+.block-13 .block-text{font-size: 3px;position: relative;line-height: 1;top: -13px;}
+.block-14{
+    left: 313px;
+    top: 686px;
+    border-radius: 0;
+    border: none;
+    display: inline-block;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    width: 132px;
+    background-color: blue;
+    opacity: 0.3;
+}
+.block-14 .block-text{
+    font-size: 15px;
+    letter-spacing: 0.1px;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    display: inline-block;
+}
+.block-14 .block-text .currency{
+    position: relative;
+    left: 0px;
+    font-size: 16px;
+}
+.block-14 .block-text .price_integer{font-size: 28.5px;line-height: 1;position: relative;left: -4.5px;top: 1px;/* background-color: blue; */}
+.block-14 .block-text .price_decimals{position: relative;left: -8px;top: 0px;}
+.block-14 .block-text .und{position: relative;left: -9px;font-size: 11px;}
+.block-15{left: 313px;top: 719px;border-radius: 0;border: none;display: inline-block;text-align: left;padding: 0;margin: 0;width: 132px;}
+.block-15 .block-text{font-size: 14px;letter-spacing: 0.1px;background-color: blue;padding: 0;margin: 0;opacity: 0.3;line-height: 1;text-decoration: line-through;}
+.block-15 .block-text .currency{
+    position: relative;
+    left: 0px;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+.block-15 .block-text .price_integer{font-size: 28.5px;line-height: 1;position: relative;left: -4.5px;top: 1px;/* background-color: blue; */}
+.block-15 .block-text .price{position: relative;left: -4px;top: 0px;}
+.block-16{
+
+}
+.block-16 .block-text{
+
+}
+.block-17{
+
+}
+.block-17 .block-text{
+
+}
+.block-18{
+
+}
+.block-18 .block-text{
+
+}
+.block-19{
+
+}
+.block-19 .block-text{
+
+}
+.block-20{
+
+}
+.block-20 .block-text{
+
+}
+.block-21{
+
+}
+.block-21 .block-text{
+
+}
+.block-22{
+
+}
+.block-22 .block-text{
+
+}
+.block-23{
+
+}
+.block-23 .block-text{
+
+}
+.block-24{
+
+}
+.block-24 .block-text{
+
+}
+.block-25{
+
+}
+.block-25 .block-text{
+
+}
+.block-26{
+
+}
+.block-26 .block-text{
+
+}
+.block-27{
+
+}
+.block-27 .block-text{
+
+}
+.block-28{
+
+}
+.block-28 .block-text{
+
+}
+.block-29{
+
+}
+.block-29 .block-text{
+
+}
+.block-30{
+
+}
+.block-30 .block-text{
+
+}
+.block-31{
+
+}
+.block-31 .block-text{
+
+}
+.block-32{
+
+}
+.block-32 .block-text{
+
+}
+.block-33{
+
+}
+.block-33 .block-text{
+
+}
+.block-34{
+
+}
+.block-34 .block-text{
+
+}
+.block-35{
+
+}
+.block-35 .block-text{
+
+}
+.block-36{
+
+}
+.block-36 .block-text{
+
+}
+.block-37{
+
+}
+.block-37 .block-text{
+
+}
+.block-38{
+
+}
+.block-38 .block-text{
+
+}
+.block-39{
+
+}
+.block-39 .block-text{
+
+}
+.block-40{
+
+}
+.block-40 .block-text{
+
+}
+.block-41{
+
+}
+.block-41 .block-text{
+
+}
+.block-42{
+
+}
+.block-42 .block-text{
+
+}
+.block-43{
+
+}
+.block-43 .block-text{
+
+}
+.block-44{
+
+}
+.block-44 .block-text{
+
+}
+.block-45{
+
+}
+.block-45 .block-text{
+
+}
+.block-46{
+
+}
+.block-46 .block-text{
+
+}
+.block-47{
+
+}
+.block-47 .block-text{
+
+}
+.block-48{
+
+}
+.block-48 .block-text{
+
+}
+.block-49{
+
+}
+.block-49 .block-text{
+
+}
+.block-50{
+
+}
+.block-50 .block-text{
+
+}
+.block-51{
+
+}
+.block-51 .block-text{
+
+}
+.block-52{
+
+}
+.block-52 .block-text{
+
+}
+.block-53{
+
+}
+.block-53 .block-text{
+
+}
+.block-54{
+
+}
+.block-54 .block-text{
+
+}
+.block-55{
+
+}
+.block-55 .block-text{
+
+}
+.block-56{
+
+}
+.block-56 .block-text{
+
+}
+.block-57{
+
+}
+.block-57 .block-text{
+
+}
+.block-58{
+
+}
+.block-58 .block-text{
+
+}
+.block-59{
+
+}
+.block-59 .block-text{
+
+}
+.block-60{
+
+}
+.block-60 .block-text{
+
+}
+.block-61{
+
+}
+.block-61 .block-text{
+
+}
+.block-62{
+
+}
+.block-62 .block-text{
+
+}
+.block-63{
+
+}
+.block-63 .block-text{
+
+}
+.block-64{
+
+}
+.block-64 .block-text{
+
+}
+.block-65{
+
+}
+.block-65 .block-text{
+
+}
+.block-66{
+
+}
+.block-66 .block-text{
+
+}
+.block-67{
+
+}
+.block-67 .block-text{
+
+}
+.block-68{
+
+}
+.block-68 .block-text{
+
+}
+.block-69{
+
+}
+.block-69 .block-text{
+
+}
+.block-70{
+
+}
+.block-70 .block-text{
+
+}
+.block-71{
+
+}
+.block-71 .block-text{
+
+}
+.block-72{
+
+}
+.block-72 .block-text{
+
+}
+.block-73{
+
+}
+.block-73 .block-text{
+
+}
+.block-74{
+
+}
+.block-74 .block-text{
+
+}
+.block-75{
+
+}
+.block-75 .block-text{
+
+}
+.block-76{
+
+}
+.block-76 .block-text{
+
+}
+.block-77{
+
+}
+.block-77 .block-text{
+
+}
+.block-78{
+
+}
+.block-78 .block-text{
+
+}
+.block-79{
+
+}
+.block-79 .block-text{
+
+}
+.block-80{
+
+}
+.block-80 .block-text{
+
+}
+.block-81{
+
+}
+.block-81 .block-text{
+
+}
+.block-82{
+
+}
+.block-82 .block-text{
+
+}
+.block-83{
+
+}
+.block-83 .block-text{
+
+}
+.block-84{
+
+}
+.block-84 .block-text{
+
+}
+.block-85{
+
+}
+.block-85 .block-text{
+
+}
+.block-86{
+
+}
+.block-86 .block-text{
+
+}
+.block-87{
+
+}
+.block-87 .block-text{
+
+}
+.block-88{
+
+}
+.block-88 .block-text{
+
+}
+.block-89{
+
+}
+.block-89 .block-text{
+
+}
+.block-90{
+
+}
+.block-90 .block-text{
+
+}
+.block-91{
+
+}
+.block-91 .block-text{
+
+}
+.block-92{
+
+}
+.block-92 .block-text{
+
+}
+.block-93{
+
+}
+.block-93 .block-text{
+
+}
+.block-94{
+
+}
+.block-94 .block-text{
+
+}
+.block-95{
+
+}
+.block-95 .block-text{
+
+}
+.block-96{
+
+}
+.block-96 .block-text{
+
+}
+.block-97{
+
+}
+.block-97 .block-text{
+
+}
+.block-98{
+
+}
+.block-98 .block-text{
+
+}
+.block-99{
+
+}
+.block-99 .block-text{
+
+}
+.block-100{
+
+}
+.block-100 .block-text{
+
+}

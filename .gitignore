@@ -1,0 +1,20 @@
+it pu# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Auth0 config
+config.json
+
+# SW
+sw.*
+
+$phpStorm file user conf
+.idea
