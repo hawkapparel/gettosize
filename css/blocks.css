@@ -369,10 +369,29 @@
 .block-15 .block-text .price_integer{font-size: 28.5px;line-height: 1;position: relative;left: -4.5px;top: 1px;/* background-color: blue; */}
 .block-15 .block-text .price{position: relative;left: -4px;top: 0px;}
 .block-16{
-
+    left: 313px;
+    top: 742px;
+    border-radius: 0;
+    border: none;
+    display: inline-block;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    width: 132px;
 }
-.block-16 .block-text{
-
+.block-16 .block-text{font-size: 14px;font-weight: 700;background-color: blue;opacity: 0.3;}
+.block-16 .block-text .currency{
+    position: relative;
+    left: 0px;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+.block-16 .block-text .price_integer{
+    font-size: 28.5px;line-height: 1;position: relative;left: -4.5px;top: 1px;
+}
+.block-16 .block-text .price_dec{
+    position:relative;
+    color: yellow;
 }
 .block-17{
 
